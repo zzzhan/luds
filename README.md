@@ -96,6 +96,7 @@ Services
 | [Infuse](https://zebedee.io/infuse/)                                                                | [01][01] [03][03]                                              |
 | [Kollider](https://kollider.xyz/)                                                                   | [01][01] [03][03] [04][04]                                     |
 | [LifPay](https://lifpay.me)                                                                         | [01][01] [03][03] [04][04] [06][06] [09][09] [12][12] [16][16] [17][17]                   |
+| [lipa wallet for business](https://lipa.swiss/for-business.html)                                    | [01][01] [03][03] [06][06]				        |
 | [LNBIG](https://lnbig.com/)                                                                         | [01][01] [02][02]                                              |
 | [ln.cash](https://ln.cash)                                                                          | [01][01] [03][03]                                              |
 | [LNMarkets](https://lnmarkets.com/)                                                                 | [01][01] [03][03] [04][04] [06][06] [16][16]                   |
