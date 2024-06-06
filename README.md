@@ -25,7 +25,7 @@ These are all the individual documents describing each small piece of protocol t
 | [18][18] | Payer identity in `payRequest` protocol.                    | [Alby][alby], [BitBanana][bitbanana], [Blixt][blixt], [cliché][cliche], [OBW][obw], [ZBD Discord][zbd], [ZBD Telegram][zbd] |
 | [19][19] | Pay link discoverable from withdraw link.                   | [Blixt][blixt], [CoinCorner][coincorner], [OBW][obw], [LNbits][lnbits] |
 | [20][20] | Long payment description for pay protocol.                  | [Alby][alby], [BitBanana][bitbanana], [Blixt][blixt], [Clams][clams], [cliché][cliche], [Mash][mash], [OneKey][onekey], [Phoenix][phoenix] |
-| [21][21] | `verify` invoice payments                                   | [Alby][alby], [Mutiny][mutiny], [Stacker.News][stacker.news] |
+| [21][21] | `verify` invoice payments                                   | [Alby][alby], [Mutiny][mutiny], [Stacker.News][stacker.news], [Zaprite][zaprite] |
 
 [alby]: https://github.com/getAlby/lightning-browser-extension
 [bipa]: https://bipa.app
@@ -68,6 +68,7 @@ These are all the individual documents describing each small piece of protocol t
 [thunderhub]: https://www.thunderhub.io
 [wos]: https://www.walletofsatoshi.com
 [zap]: https://zaphq.io/
+[zaprite]: https://zaprite.com
 [zbd]: https://zebedee.io/wallet
 [zeus]: https://zeusln.app
 
