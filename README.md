@@ -23,9 +23,9 @@ These are all the individual documents describing each small piece of protocol t
 | [16][16] | Paying to static internet identifiers.                      | [Alby][alby], [Bipa][bipa], [Balance of Satoshis][bos], [BitBanana][bitbanana], [Blixt][blixt], [BTCPayServer][btcp], [Clams][clams], [cliché][cliche], [CoinCorner][coincorner], [coinos][coinos], [Fountain][fountain], [LifPay][lifpay], [lipa wallet][lipa], [LNbits][lnbits], [LNLink][lnlink], [LightningTipBot][ltb], [Machankura][machankura], [Mash][mash], [OBW][obw], [OneKey][onekey], [Phoenix][phoenix], [Pouch.ph][pouchph], [River][river], [River Lightning][riverlightning], [Stacker.News][stacker.news], [Zap Android][zap], [ZBD Discord][zbd], [ZBD Extension][zbd], [ZBD Telegram][zbd], [ZEBEDEE][zbd], [Zeus][zeus] |
 | [17][17] | Scheme prefixes and raw (non bech32-encoded) URLs.          | [Alby][alby], [BitBanana][bitbanana], [Blixt][blixt], [BTCPayServer][btcp], [Clams][clams], [cliché][cliche], [CoinCorner][coincorner], [LifPay][lifpay], [lipa wallet][lipa], [Mash][mash], [OneKey][onekey], [ZBD Discord][zbd], [ZBD Telegram][zbd] | [Wallet of Satoshi][wos] |
 | [18][18] | Payer identity in `payRequest` protocol.                    | [Alby][alby], [BitBanana][bitbanana], [Blixt][blixt], [cliché][cliche], [OBW][obw], [ZBD Discord][zbd], [ZBD Telegram][zbd] |
-| [19][19] | Pay link discoverable from withdraw link.                   | [Blixt][blixt], [CoinCorner][coincorner], [OBW][obw], [LNbits][lnbits] |
+| [19][19] | Pay link discoverable from withdraw link.                   | [Blixt][blixt], [CoinCorner][coincorner], [OBW][obw], [LifPay][lifpay], [LNbits][lnbits] |
 | [20][20] | Long payment description for pay protocol.                  | [Alby][alby], [BitBanana][bitbanana], [Blixt][blixt], [Clams][clams], [cliché][cliche], [Mash][mash], [OneKey][onekey], [Phoenix][phoenix] |
-| [21][21] | `verify` LNURL-pay payments                                 | [Alby][alby], [Mutiny][mutiny], [Stacker.News][stacker.news], [Zaprite][zaprite] |
+| [21][21] | `verify` LNURL-pay payments                                 | [Alby][alby], [LifPay][lifpay], [Mutiny][mutiny], [Stacker.News][stacker.news], [Zaprite][zaprite] |
 
 [alby]: https://github.com/getAlby/lightning-browser-extension
 [bipa]: https://bipa.app
@@ -97,7 +97,7 @@ Services
 | [IBEXHub](https://ibexmercado.gitbook.io/ibex-hub-api/reference/api-reference)                      | [01][01] [03][03] [06][06] [16][16]                            |
 | [Infuse](https://zebedee.io/infuse/)                                                                | [01][01] [03][03]                                              |
 | [Kollider](https://kollider.xyz/)                                                                   | [01][01] [03][03] [04][04]                                     |
-| [LifPay](https://lifpay.me)                                                                         | [01][01] [03][03] [04][04] [06][06] [09][09] [12][12] [16][16] [17][17]                   |
+| [LifPay](https://lifpay.me)                                                                         | [01][01] [03][03] [04][04] [06][06] [09][09] [12][12] [16][16] [17][17] [19][19] [21][21] |
 | [lipa wallet for business](https://lipa.swiss/for-business.html)                                    | [01][01] [03][03] [06][06]				        |
 | [LNBIG](https://lnbig.com/)                                                                         | [01][01] [02][02]                                              |
 | [ln.cash](https://ln.cash)                                                                          | [01][01] [03][03]                                              |
